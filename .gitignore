@@ -296,3 +296,8 @@ spark-warehouse/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,dbt,spark,visualstudiocode
+.venv
+/.venv
+../.venv
+yugioh/.venv
+/home/leandro/dev/yugioh/yugioh/.venv
